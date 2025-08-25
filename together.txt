@@ -1,2 +1,4 @@
+[Antonio Ammirati]
 CAPSTONE PROJECT:
-Event-Driven ML pipeline to generate trading signals on small-cap biotech stocks using news sentiment, options, macro and technical indicators [Antonio Ammirati]
+Event-Driven ML pipeline to generate trading signals on small-cap biotech stocks using news sentiment, options, macro and technical indicators.
+--------------------------------------------------------------------------------
