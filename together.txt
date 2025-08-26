@@ -3,3 +3,5 @@ CAPSTONE PROJECT:
 Event-Driven ML pipeline to generate trading signals on small-cap biotech stocks using news sentiment, options, macro and technical indicators.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Frazer Smillie]: Approach comparison of categorisation of obesity using a dataset from a 2024 Kaggle competitions.
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Atea Thion]: Predicting properties' sale price in Outer London Boroughs.
