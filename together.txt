@@ -4,4 +4,4 @@ Event-Driven ML pipeline to generate trading signals on small-cap biotech stocks
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 [Frazer Smillie]: Approach comparison of categorisation of obesity using a dataset from a 2024 Kaggle competitions.
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-[Atea Thion]: Predicting properties' sale price in Outer London Boroughs.
+[Atea Thion]: Predicting properties' sale price in Outer London Boroughs.My capstone: <one-line summary here>.
